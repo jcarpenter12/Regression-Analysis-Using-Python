@@ -3,11 +3,11 @@
 
 A notebook covering the following different types of regression techniques to predict Boston House prices.
 
--Linear regression
--Multiple Linear regression
--Decision Tree Learning
--Random Forest Learning
--Gradient Boosted regression
+- Linear regression
+- Multiple Linear regression
+- Decision Tree Learning
+- Random Forest Learning
+- Gradient Boosted regression
 
 This notebook was made for my personal use and if you are interested in learning these topics I would recommend reading the articles I have included in the notebook as they explain the concepts used in much more detail.
 
